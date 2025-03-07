@@ -11,4 +11,8 @@ graph TD;
     G --> H;
     H --> I[Pruebas con la PCB, detección de datos y procesamiento de frecuencias cerebrales]
     I --> J[Analisis de datos mediante software de procesamiento de señales];
+    L --> M;
+    M --> N[Finalización de detalles esteticos];
+    N --> O[Presentación del proyecto ante cada una de las asignaturas junto con su informe];
+    O --> P[Fin];
 
