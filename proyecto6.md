@@ -14,5 +14,9 @@ graph TD;
     J --> K[¿Problemas?];
     K -- Si --> L[Consulta con el tutor, investigación de posibles soluciones y resolución de los inconvenientes];
     K -- No --> M[Optimización del diseño y nuevamente pruebas];
+    L --> M;
+    M --> N[Finalización de detalles esteticos];
+    N --> O[Presentación del proyecto ante cada una de las asignaturas junto con su informe];
+    O --> P[Fin];
 
 
